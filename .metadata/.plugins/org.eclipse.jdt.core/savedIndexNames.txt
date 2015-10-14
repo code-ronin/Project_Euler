@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\Raymond Li\Documents\GitHub\Project_Euler\.metadata\.plugins\org.eclipse.jdt.core
+2478599259.index
+3837484237.index
+50557386.index
